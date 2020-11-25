@@ -1,0 +1,12 @@
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\bin\Debug\发票导入模板.xls
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\bin\Debug\航天金税接口.exe.config
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\bin\Debug\航天金税接口.exe
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\bin\Debug\航天金税接口.pdb
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.BaseData.resources
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.Form1.resources
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.Help.resources
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.Properties.Resources.resources
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.csproj.GenerateResource.Cache
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.exe
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\obj\Debug\航天金税接口.pdb
+D:\01Project\07我的框架\02航天金税接口\Project\航天金税接口\航天金税接口\bin\Debug\hantianjinshui.exe.config

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GBK"?>
+<Kp>
+	<!-->本文件由【树上一只羊】快速生成销货清单创建而成，欢迎访问我的淘宝店 https://shop108974510.taobao.com ，咨询QQ：1983828212  </!-->
+	<Version>2.0</Version>
+	<Fpxx>
+		<Zsl>1</Zsl>
+		<Fpsj>
+			<Fp>
+				<Djh>2</Djh>
+				<Gfmc>123123123131</Gfmc>
+				<Gfsh/>
+				<Gfyhzh/>
+				<Gfdzdh/>
+				<Bz/>
+				<Fhr>吕春城</Fhr>
+				<Skr>cony</Skr>
+				<Spbmbbh>1</Spbmbbh>
+				<Hsbz>0</Hsbz>
+				<Spxx>
+					<Sph>
+						<Xh>1</Xh>
+						<Spmc>夜间报岗记录表</Spmc>
+						<Ggxh/>
+						<Jldw>本</Jldw>
+						<Spbm>1060201030000000000</Spbm>
+						<Qyspbm/>
+						<Syyhzcbz/>
+						<Lslbz/>
+						<Yhzcsm/>
+						<Dj>17.094017094017094</Dj>
+						<Sl>5</Sl>
+						<Je>85.47008547008547</Je>
+						<Slv>0.17</Slv>
+						<Kce/>
+					</Sph>
+					<Sph>
+						<Xh>2</Xh>
+						<Spmc>安全值班与交接班记录表</Spmc>
+						<Ggxh/>
+						<Jldw>本</Jldw>
+						<Spbm>1060201030000000000</Spbm>
+						<Qyspbm/>
+						<Syyhzcbz/>
+						<Lslbz/>
+						<Yhzcsm/>
+						<Dj>25.641025641025641</Dj>
+						<Sl>7</Sl>
+						<Je>179.487179487179487</Je>
+						<Slv>0.17</Slv>
+						<Kce/>
+					</Sph>
+				</Spxx>
+			</Fp>
+		</Fpsj>
+	</Fpxx>
+</Kp>
